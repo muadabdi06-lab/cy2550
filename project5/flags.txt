@@ -1,5 +1,5 @@
 CY2550_FLAG_LEVEL1{i7uv1ipte2i19374jpdpsqt076zrc0al}
-CY2550_FLAG_LEVEL2{l4x070k0gqfz6phit82pgg8itci067sx}
+CY2550_FLAG_LEVEL2{l4x070k0ggfz6phit82pgg81tci067sx}
 CY2550_FLAG_LEVEL3{k4zpwistk6szeu3h9i2qmqvid30eipsd}
-CY2550_FLAG_LEVEL4{c28yt040ujw10rfxaaelv8up0pbivloa}
+CY2550_FLAG_LEVEL4{c28yt040ujw10rfxaaelv8up0pbiyloa}
 CY2550_FLAG_LEVEL5{xquloo35m7aefco3r7k9uqw56b2semxa}
